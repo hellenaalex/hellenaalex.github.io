@@ -1,0 +1,22 @@
+body {
+    background-color: aqua; /* бирюзовый цвет фона */
+}
+
+header {
+    background-color: #333; /* цвет топ-меню */
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main {
+    margin: 20px;
+}
